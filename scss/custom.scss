@@ -33,6 +33,7 @@ body {
   padding: 0.2em;
   background-color: rgb(225, 205, 195, 0.8);
   display: table;
+  text-transform: uppercase;
 }
 
 .lead {
@@ -56,4 +57,10 @@ body {
 
 .card-body {
   background-color: #e5e5e5;
+}
+
+.maintext {
+  background-color: #e5e5e5;
+  margin: 20px;
+  padding: 1em;
 }
